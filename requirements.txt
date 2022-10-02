@@ -1,2 +1,7 @@
 Flask
 Gunicorn
+selenium>=4.4.1
+selenium-wire>=4.6.1
+webdriver-manager>=3.8.3
+python-telegram-bot>=13.11,<15.14
+pymysql==1.0.2
