@@ -30,7 +30,7 @@ def hello_world():
 
 
     # tg_updater = Updater(os.getenv("token"), use_context=True)
-    tg_updater = Updater("5242589524:AAFBjO_jgUoDRwIK_DbMmS1JqheY-6BAgX8", use_context=True)
+    tg_updater = Updater("5146353719:AAGIaZfO11ghjmk9388x8FZ1z3BvNPo3Wi8", use_context=True)
     tg_dispatcher = tg_updater.dispatcher
 
 
